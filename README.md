@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sabeh Shaikh</h1>
-<h3 align="center">A passionate Web developer from Pakistan</h3>
+<h3 align="center">A passionate Front-End Developer from Pakistan</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
