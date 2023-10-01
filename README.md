@@ -35,7 +35,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,firebase,react,c,github,vscode,netlify, )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,firebase,react,c,github,vscode,netlify,nodejs )]([https://skillicons.dev](https://skillicons.dev/))
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabehshaikh&show_icons=true&locale=en&layout=compact" alt="sabehshaikh" /></p>
 
