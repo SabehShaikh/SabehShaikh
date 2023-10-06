@@ -10,9 +10,9 @@
 
 ### About Me 🚀
 
-- 🔭 I’m currently working on **JavaScript**
+- 🔭 I’m currently working on **JavaScript - REACT JS - NODE JS**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👯 I’m looking to collaborate on **Open-source projects**
 
