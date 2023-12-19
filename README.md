@@ -4,23 +4,23 @@
 
 
 <h1 align="center">Hi 👋, I'm Sabeh Shaikh</h1>
-<h3 align="center">A passionate Front-End Developer from Pakistan</h3>
+<h3 align="center">MERN STACK Developer from Pakistan 🚀</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 ### About Me 🚀
 
-- 🔭 I’m currently working on **JavaScript - REACT JS - NODE JS**
+- 🔭 Currently immersed in crafting robust applications with **JavaScript, React JS, and Node JS**
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 Continuously expanding my knowledge of the **MERN stack** for building scalable and dynamic web applications
 
-- 👯 I’m looking to collaborate on **Open-source projects**
+- 👯 Open to collaborating on exciting **Open-source projects** in the MERN ecosystem
 
-- 💬 Ask me about **Responsive Web Design**
+- 💬 Love discussing anything related to **Full-stack Development** and solving complex challenges
 
-- 📫 How to reach me **sabehshaikh201@gmail.com**
+- 📫 Reach me at **sabehshaikh201@gmail.com**
 
-- ⚡ Fun fact **"Why do programmers prefer dark mode? Because light attracts bugs!"**
+- ⚡ Fun fact: **"Why do programmers prefer dark mode? Because light attracts bugs!"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,7 +35,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,firebase,react,c,github,vscode,netlify,nodejs,python )]([https://skillicons.dev](https://skillicons.dev/))
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,firebase,react,c,github,vscode,netlify,nodejs,python,mongodb,expressjs )]([https://skillicons.dev](https://skillicons.dev/))
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabehshaikh&show_icons=true&locale=en&layout=compact" alt="sabehshaikh" /></p>
 
