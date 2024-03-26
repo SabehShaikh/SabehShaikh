@@ -1,7 +1,7 @@
 
-
-![dhuz](https://camo.githubusercontent.com/d348976f3419cd09cf731439742c1b889e3f3cd8e04b2e72e7a219d85b049c37/68747470733a2f2f636c6f75642d6c66697532373079302d6861636b2d636c75622d626f742e76657263656c2e6170702f30666f6f7465722e706e67)
-
+<h1 align = "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+Sabeh+Shaikh%2C+;Welcome+to+my+README" alt="Typing SVG" /></a>
+</h1>
 
 <h1 align="center">Hi 👋, I'm Sabeh Shaikh</h1>
 <h3 align="center">MERN STACK Developer from Pakistan 🚀</h3>
